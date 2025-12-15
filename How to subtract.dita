@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gsc_tqw_4hc">
+    <title>How to subtract two numbers</title>
+    <shortdesc>Here you will find how instruction subtract two numbers</shortdesc>
+    <taskbody>
+        <prereq id="prereq_uhy_s1x_4hc">You must know what is subtraction</prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the minus(-) sign</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number</cmd>
+            </step>
+            <step>
+                <cmd>Choose the Equal(=) sign</cmd>
+            </step>
+        </steps>
+        <result id="result_ydd_11x_4hc">The result of subtraction will be displayed</result>
+        <example id="example_k1y_l1x_4hc">If you want to subtract 1 from 3 the equation will look
+            like this : 3-1=2</example>
+    </taskbody>
+</task>

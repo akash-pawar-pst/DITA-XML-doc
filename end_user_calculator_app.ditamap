@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-user-calculator-app</title>
+    <topichead navtitle="Sum up"/>
+    <topichead navtitle="subtract">
+        <topicref href="what_is_subtraction.dita"/>
+        <topicref href="How%20to%20subtract.dita"/>
+    </topichead>
+</map>
